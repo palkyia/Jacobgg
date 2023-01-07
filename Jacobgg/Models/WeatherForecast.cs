@@ -1,4 +1,4 @@
-namespace Jacobgg
+namespace Jacobgg.Models
 {
     public class WeatherForecast
     {
